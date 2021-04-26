@@ -1,0 +1,10 @@
+C:\Users\hmzko\OneDrive\Masaüstü\Csharp\FinalGUILab\FinalGUILab\bin\Debug\FinalGUILab.exe.config
+C:\Users\hmzko\OneDrive\Masaüstü\Csharp\FinalGUILab\FinalGUILab\bin\Debug\FinalGUILab.exe
+C:\Users\hmzko\OneDrive\Masaüstü\Csharp\FinalGUILab\FinalGUILab\bin\Debug\FinalGUILab.pdb
+C:\Users\hmzko\OneDrive\Masaüstü\Csharp\FinalGUILab\FinalGUILab\obj\Debug\FinalGUILab.csprojAssemblyReference.cache
+C:\Users\hmzko\OneDrive\Masaüstü\Csharp\FinalGUILab\FinalGUILab\obj\Debug\FinalGUILab.Form1.resources
+C:\Users\hmzko\OneDrive\Masaüstü\Csharp\FinalGUILab\FinalGUILab\obj\Debug\FinalGUILab.Properties.Resources.resources
+C:\Users\hmzko\OneDrive\Masaüstü\Csharp\FinalGUILab\FinalGUILab\obj\Debug\FinalGUILab.csproj.GenerateResource.cache
+C:\Users\hmzko\OneDrive\Masaüstü\Csharp\FinalGUILab\FinalGUILab\obj\Debug\FinalGUILab.csproj.CoreCompileInputs.cache
+C:\Users\hmzko\OneDrive\Masaüstü\Csharp\FinalGUILab\FinalGUILab\obj\Debug\FinalGUILab.exe
+C:\Users\hmzko\OneDrive\Masaüstü\Csharp\FinalGUILab\FinalGUILab\obj\Debug\FinalGUILab.pdb
